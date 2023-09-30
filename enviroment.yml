@@ -1,0 +1,32 @@
+name: mlws
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - matplotlib
+  - pytorch=2
+  - scipy
+  - transformers
+  - sympy
+  - ipykernel=6
+  - plotly
+  - tensorboard
+  - accelerate
+  - av
+  - ipywidgets
+  - lightning
+  - diffusers
+  - peft
+  - black
+  - mlflow
+  - networkx
+  - sentencepiece
+  - gradio
+  - onnxruntime
+  - datasets
+  - evaluate
+  - gluonts
+  - ujson
+  - safetensors
+  - trimesh
